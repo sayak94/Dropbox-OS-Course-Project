@@ -28,6 +28,5 @@
 7. Note: We have assumed that a person will not use Dropbox at home and office at the same time and should also exit the terminal where he previously
    made changes(for example in office)so as to connect to the server from new client location(for example at home).
    
-**Sir We would like to demonstrate the working of this Dropbox code as it would be easier and faster to explain all the functions used and the working of the code.**
-**Thanks**
+
    
