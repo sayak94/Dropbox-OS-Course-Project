@@ -1,3 +1,5 @@
+**OS Course Project**
+
 *SERVER SIDE*
 
 1. First edit the ip address in the ip.conf file. Put the ip address of the server.
