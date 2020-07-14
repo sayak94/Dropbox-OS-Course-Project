@@ -1,0 +1,10 @@
+#define install 1
+#define sending_file 2
+#define last_file_sent 3
+#define file_created 4
+#define file_modified 5
+#define file_deleted 6
+#define file_moved_from 7
+#define file_moved_to 8
+#define folder_deleted 9
+#define folder_created 1

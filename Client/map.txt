@@ -1,0 +1,5 @@
+1 /home/baban/Pictures/Desktop/deep2/
+2 /home/baban/Pictures/Desktop/deep2//ab/
+3 /home/baban/Pictures/Desktop/deep2//a/
+4 /home/baban/Pictures/Desktop/deep2//a//c/
+5 /home/baban/Pictures/Desktop/deep2//a//b/
